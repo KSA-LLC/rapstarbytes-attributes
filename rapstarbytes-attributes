@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-26T19:07:01.763Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="GKZRle4UX8Tctm2p3vtn" version="16.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-26T19:07:27.222Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="JXjAkJa5s7C-3gR3zemE" version="16.4.7" type="github">
   <diagram id="OaCI2gOhnWoZpvwAxJMx" name="Page-1">
     <mxGraphModel dx="1991" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="410" y="100" />
-              <mxPoint x="820" y="100" />
+              <mxPoint x="960" y="100" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -87,7 +87,7 @@
           <mxGeometry x="560" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZZS4Rk92ldm2lIH9FZMb-5" value="Skills" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="900" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZZS4Rk92ldm2lIH9FZMb-10" value="Rapper" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-740" y="270" width="120" height="60" as="geometry" />
