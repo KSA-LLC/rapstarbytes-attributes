@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T05:09:00.266Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" version="16.4.7" etag="lXuxS_1xzYpzaS4TI8Jn" type="github"><diagram id="7UAo2qnOGU7iv5kl4K5P">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-28T03:18:51.178Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="Lx4SyfvnjFrF-Unr3x9Z" version="16.4.7" type="github">
+  <diagram id="7UAo2qnOGU7iv5kl4K5P" name="Page-1">
+    <mxGraphModel dx="1186" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oF4H9zy6nZHE74iOgAmR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oF4H9zy6nZHE74iOgAmR-1" target="oF4H9zy6nZHE74iOgAmR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oF4H9zy6nZHE74iOgAmR-1" value="Mint NFT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oF4H9zy6nZHE74iOgAmR-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oF4H9zy6nZHE74iOgAmR-2" target="oF4H9zy6nZHE74iOgAmR-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oF4H9zy6nZHE74iOgAmR-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oF4H9zy6nZHE74iOgAmR-2" target="oF4H9zy6nZHE74iOgAmR-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oF4H9zy6nZHE74iOgAmR-2" value="Cost to Mint" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="130" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="oF4H9zy6nZHE74iOgAmR-3" value="10%&lt;br&gt;Holders" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="50" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="oF4H9zy6nZHE74iOgAmR-6" value="90%&lt;br&gt;Contract Owner" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="210" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="oF4H9zy6nZHE74iOgAmR-9" value="https://www.youtube.com/watch?v=Ovt2Xwof3VQ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="10" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oF4H9zy6nZHE74iOgAmR-10" value="Rewards&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="10" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oF4H9zy6nZHE74iOgAmR-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oF4H9zy6nZHE74iOgAmR-11" target="oF4H9zy6nZHE74iOgAmR-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oF4H9zy6nZHE74iOgAmR-11" value="Last Mint" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oF4H9zy6nZHE74iOgAmR-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oF4H9zy6nZHE74iOgAmR-12" target="oF4H9zy6nZHE74iOgAmR-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oF4H9zy6nZHE74iOgAmR-12" value="10% of Contract Balance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oF4H9zy6nZHE74iOgAmR-14" value="Random Holder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
