@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2022-01-31T23:04:20.328Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" version="16.5.2" etag="xXdk2p51h0uqApvpfBmm" type="github"><diagram id="Jv1lDnltZcB74NSWqO8J">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-31T23:07:49.939Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="T_1aMeJF1A2gVOw0o3ou" version="16.5.2" type="github">
+  <diagram id="Jv1lDnltZcB74NSWqO8J" name="Page-1">
+    <mxGraphModel dx="1186" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kQwYnQG0BUZx0pIHHwzF-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kQwYnQG0BUZx0pIHHwzF-1" target="kQwYnQG0BUZx0pIHHwzF-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kQwYnQG0BUZx0pIHHwzF-1" value="Earn RapStarByteCoins" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kQwYnQG0BUZx0pIHHwzF-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kQwYnQG0BUZx0pIHHwzF-2" target="kQwYnQG0BUZx0pIHHwzF-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kQwYnQG0BUZx0pIHHwzF-2" value="Hear untold stories" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kQwYnQG0BUZx0pIHHwzF-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kQwYnQG0BUZx0pIHHwzF-3" target="kQwYnQG0BUZx0pIHHwzF-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kQwYnQG0BUZx0pIHHwzF-3" value="learn about the &lt;br&gt;music industry" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kQwYnQG0BUZx0pIHHwzF-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kQwYnQG0BUZx0pIHHwzF-4" target="kQwYnQG0BUZx0pIHHwzF-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kQwYnQG0BUZx0pIHHwzF-4" value="sell beats" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kQwYnQG0BUZx0pIHHwzF-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kQwYnQG0BUZx0pIHHwzF-5" target="kQwYnQG0BUZx0pIHHwzF-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kQwYnQG0BUZx0pIHHwzF-5" value="sell music&lt;br&gt;as an nft" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kQwYnQG0BUZx0pIHHwzF-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kQwYnQG0BUZx0pIHHwzF-6" target="kQwYnQG0BUZx0pIHHwzF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kQwYnQG0BUZx0pIHHwzF-6" value="hold listening&lt;br&gt;parties" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kQwYnQG0BUZx0pIHHwzF-7" value="charge for entry" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kQwYnQG0BUZx0pIHHwzF-9" value="charge for music" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kQwYnQG0BUZx0pIHHwzF-11" value="charge for beats" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kQwYnQG0BUZx0pIHHwzF-13" value="Release Party" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kQwYnQG0BUZx0pIHHwzF-14" value="whitelist slots" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kQwYnQG0BUZx0pIHHwzF-15" value="educate aspiring&amp;nbsp;&lt;br&gt;musicians" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kQwYnQG0BUZx0pIHHwzF-17" value="tell worthy stories" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kQwYnQG0BUZx0pIHHwzF-19" value="Use to buy &lt;br&gt;more nfts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
